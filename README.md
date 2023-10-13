@@ -12,17 +12,17 @@
 
 #### Bought
 
-Synchronous Motor - 38$
-Voltage regulator x3 - 3$ 
-One-way voltage diode x3 - 5$
-Rechargeable 5V Battery - 10-20$
+ - Synchronous Motor - 38$
+ - Voltage regulator x3 - 3$ 
+ - One-way voltage diode x3 - 5$
+ - Rechargeable 5V Battery - 10-20$
 
 #### From the Lab
 
-3D printed parts 
-Pico+circuitry
-PVC piping
-Wood
+ - 3D printed parts 
+ - Pico+circuitry
+ - PVC piping
+ - Wood
 
 ### Requirements 
 
