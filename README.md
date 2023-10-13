@@ -1,11 +1,15 @@
 # CapstoneProject_EliasJayQuinn
 
-## Schedule 
+&nbsp;
 
-## Initial Design 
+## Table of Contents
+* [Planning](#Planning)
+* [Schedule](#Schedule)
 
-## Materials 
+## Planning  
 
-## Week by Week Schedule
+### Materials 
+
+## Schedule
 
 ### Week 1 
