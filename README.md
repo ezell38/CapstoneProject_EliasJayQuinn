@@ -46,7 +46,7 @@
 
 ### Weeks 1 - 4
 
-Planning and Research - We will brainstorm possible designs, find our customer, and establish goals. Research the materials we need and decide on our method to create each design part. Research wind speeds and park locations.
+Planning and Research - We will brainstorm possible designs, find our customer, and establish goals. Research needed materials and decide on our method to create each design part. Research wind speeds and park locations.
 
 ### Weeks 4 - 8 
 
