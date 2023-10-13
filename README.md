@@ -10,6 +10,38 @@
 
 ### Materials 
 
+#### Bought
+
+Synchronous Motor - 38$
+Voltage regulator x3 - 3$ 
+One-way voltage diode x3 - 5$
+Rechargeable 5V Battery - 10-20$
+
+#### From the Lab
+
+3D printed parts 
+Pico+circuitry
+PVC piping
+Wood
+
+### Requirements 
+
+#### Essential
+
+- Generate energy starting at wind speeds of 5 mph
+- Average 10 Watts of energy production per hour
+- Constant stream of power to an outlet  
+- Firm base that does not require groundwork 
+- Fits within 100 cubic feet
+- Built with cheap, sustainable materials
+
+#### Non-Essential
+
+- Easily collapsible/can be transported easily
+- Able to mount on rooftops to better use wind and not take up space
+- Aesthetically pleasing design - Won’t look incredibly out of place in the park
+
+
 ## Schedule
 
 ### Weeks 1 - 4
