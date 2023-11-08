@@ -66,9 +66,9 @@ Testing - Test at CHS and make any changes to the code or design we need. Collec
 
 Iterate - Place wind turbine in Greenleaf Park and collect data. Create a presentation for the UVA link lab.
 
-### Week Summary 
+## Week Summary 
 
-Week 1 - Oct 29 - Nov 4 - 
+### Week 1 - Oct 29 - Nov 4 - 
 
 This week we researched and ordered our charge controller. This device will assist with the circuitry by allowing us to monitor and control the voltage being produced by the system. 
 
