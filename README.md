@@ -66,4 +66,8 @@ Testing - Test at CHS and make any changes to the code or design we need. Collec
 
 Iterate - Place wind turbine in Greenleaf Park and collect data. Create a presentation for the UVA link lab.
 
+### Week Summary 
+
+Week 1 - Oct 29 - Nov 4 - 
+
 
