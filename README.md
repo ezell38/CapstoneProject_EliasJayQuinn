@@ -76,6 +76,6 @@ This week we researched and ordered our charge controller. This device will assi
 
 We also communicated with our mentor, Zack Landsman, and got one of his mass-produced small-scale wind turbine. We assembled this wind turbine and once the charge controller arrives will begin to produce energy and finalize our circuitry which we will implement after creating our large-scale turbine. 
 
-<img src="images/Project_1.PNG" width="400" height="300" />
+<img src="images/WIN_20231108_09_21_16_Pro.jpg" width="400" height="300" />
 
 
