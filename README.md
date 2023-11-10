@@ -78,4 +78,7 @@ We also communicated with our mentor, Zack Landsman, and got one of his mass-pro
 
 <img src="Images/WIN_20231108_09_21_16_Pro.jpg" width="400" height="300" />
 
+We realized that connecting the turbine blades to the motor would be more challenging than we thought. We have a couple of options from Zack, and Jay is also working on one in OnShape. Hopefully, once we settle on a blade design, we can make a decision that will best match our design.
+
+Next week when the charge controller comes we will use the miniature turbine to work on the circuitry. Until it comes, we will work on designing the wind turbine blades and attachment.  
 
