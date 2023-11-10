@@ -5,7 +5,7 @@
 ## Table of Contents
 * [Planning](#Planning)
 * [Schedule](#Schedule)
-* [Week Schedule](#Week_Summary)
+* [Week Summary](#Week Summary)
 
 ## Planning  
 
