@@ -85,6 +85,16 @@ Next week when the charge controller comes we will use the miniature turbine to 
 
 ### Week 4 - November 27 - December 1st - 
 
-This week we 3D-designed an alternative wind turbine blade design to the one given to us by Zack. We used a savonius design which will hopefully be more effective than the current Darreius design. Next week we are planning on printing the alternative design and then testing the power output at identical wind speeds. We also tested the power output of our current motor at different rpm using the INA260 Arduino module and a multimeter. The results are as follows - 
+This week we 3D-designed an alternative wind turbine blade design to the one given to us by Zack. We used a Savonius design which will hopefully be more effective than the current Darreius design. Next week we are planning on printing the alternative design and then testing the power output at identical wind speeds. We also tested the power output of our current DC motor at different rpm using the INA260 Arduino module and a multimeter.
+The results are as follows - 
+|RPM  |Voltage|Current|Resistance|Power Output|
+---------------------------------------------
+|68.97|.33    |.015   |220       |.000495     |
+-----------------------------------------------
+|150  |.64    |.0029  |220       |.00186      |
+-----------------------------------------------
+|261  |1.24   |.00563 |220       |.00699      |
+-----------------------------------------------
+
 
 
