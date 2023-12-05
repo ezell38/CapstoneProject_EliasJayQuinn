@@ -93,5 +93,5 @@ The results are as follows -
 |150  |.64    |.0029  |220       |.00186      |
 |261  |1.24   |.00563 |220       |.00699      |
 
-
+Here is the CAD for the alternative design - 
 
