@@ -95,3 +95,7 @@ The results are as follows -
 
 Here is the CAD for the alternative design - 
 
+<img src="Images/1.PNG" width="400" height="300" />
+
+<img src="Images/2.PNG" width="400" height="300" />
+
