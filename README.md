@@ -105,6 +105,10 @@ This week we finalized our design for the prototype blade system and submitted i
 
 We used the INA260 Arduino module to test voltage, current, and power outputs from our current motor. Using a drill we were able to test the max production values for the current dc motor. Next week we will use the module and a fan to test Zach's design as well as our own at constant wind speeds. This testing will help us make decisions going forward on blade design. Next week in addition to testing we will start researching and planning our base design.   
 
+<img src="https://github.com/ezell38/CapstoneProject_EliasJayQuinn/blob/880b19cef6553e5d3af76dc2e8be2389367e9cdc/Images/topV3.PNG" width="400" height="300" />
+
+<img src="https://github.com/ezell38/CapstoneProject_EliasJayQuinn/blob/880b19cef6553e5d3af76dc2e8be2389367e9cdc/Images/bottomV3.PNG" width="400" height="300" />
+
 Max Values for Motor from Zach - 
 
 |Voltage   |Current  |Power Output|
