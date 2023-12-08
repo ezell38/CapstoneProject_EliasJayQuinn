@@ -102,3 +102,12 @@ Here is the CAD for the alternative design -
 ### Week 5 - December 4th - December 8th
 
 This week we finalized our design for the prototype blade system and submitted it to be 3d printed. This included designing a motor mount, which for this first version we used the same mount as was on the blades Zach gave us. One problem we ran it to was the 3d printers only having a 8in x 8in bed. Since our design was larger than that area, we would have to either downsize it or print it in multiple pieces and bolt them together. We chose to just downsize it to reduce print time, and because this was just a simple first prototype amd our goal is to test the blade design rather than completely maximize the power generated. 
+
+#### Max Values for Motor from Zach
+
+|Voltage   |Current  |Power Output|
+|----------|---------|------------|
+|1252.50 mV|481.25 mA|630.00 mW   |
+|1107.50 mV|473.75 mA|520.00 mW   |
+|1513.75 mV|396.25 mA|560.00 mW   |
+
