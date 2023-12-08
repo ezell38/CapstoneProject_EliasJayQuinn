@@ -99,3 +99,6 @@ Here is the CAD for the alternative design -
 
 <img src="Images/2.PNG" width="400" height="300" />
 
+### Week 5 - December 4th - December 8th
+
+This week we finalized our design for the prototype blade system and submitted it to be 3d printed. This included designing a motor mount, which for this first version we used the same mount as was on the blades Zach gave us. One problem we ran it to was the 3d printers only having a 8in x 8in bed. Since our design was larger than that area, we would have to either downsize it or print it in multiple pieces and bolt them together. We chose to just downsize it to reduce print time, and because this was just a simple first prototype amd our goal is to test the blade design rather than completely maximize the power generated. 
