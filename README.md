@@ -119,3 +119,8 @@ Max Values for Motor from Zach -
 |1107.50 mV|473.75 mA|520.00 mW   |
 |1513.75 mV|396.25 mA|560.00 mW   |
 
+### Week 6 - December 11th - December 15th
+
+This week we 3-D printed our top and bottom part but when mirroring the bottom piece off of the top we failed to reverse it, leading to the parts not fitting. This is a valuable lesson going forward: parts should always be put into an assembly before being printed. Once the parts were correctly printed, we constructed our prototype. We used dowel rods and the flimsy plastic sheets in the back of the classroom, each cut to 4 inches in height, to combine the top and bottom and create the wings. We then used a hot glue gun to secure it all in place. It is incredibly sturdy and I think the method with two dowel rods as additional support will be helpful in our next, more finalized design. 
+
+
