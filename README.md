@@ -123,4 +123,12 @@ Max Values for Motor from Zach -
 
 This week we 3-D printed our top and bottom part but when mirroring the bottom piece off of the top we failed to reverse it, leading to the parts not fitting. This is a valuable lesson going forward: parts should always be put into an assembly before being printed. Once the parts were correctly printed, we constructed our prototype. We used dowel rods and the flimsy plastic sheets in the back of the classroom, each cut to 4 inches in height, to combine the top and bottom and create the wings. We then used a hot glue gun to secure it all in place. It is incredibly sturdy and I think the method with two dowel rods as additional support will be helpful in our next, more finalized design. 
 
+<img src="Images/project1.JPG" width="400" height="300" />
 
+<img src="Images/project2.JPG" width="400" height="300" />
+
+<img src="Images/project3.JPG" width="400" height="300" />
+
+<img src="Images/project4.JPG" width="400" height="300" />
+
+In the upcoming weeks, we will test our design vs Zach's to determine which design is more efficient.
