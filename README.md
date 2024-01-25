@@ -132,3 +132,11 @@ This week we 3-D printed our top and bottom part but when mirroring the bottom p
 <img src="Images/project4.jpg" width="400" height="300" />
 
 In the upcoming weeks, we will test our design vs Zach's to determine which design is more efficient.
+
+### Week 7/8 - January 22 - January 25 
+
+These past two weeks we received the charge controller which allowed us to start producing and exporting energy through multiple ports and measuring the voltage/current more efficiently. 
+
+
+
+
