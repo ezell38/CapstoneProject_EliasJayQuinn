@@ -148,7 +148,33 @@ These past two weeks we received the charge controller which allowed us to start
 
 We spent this month testing different motors, both with the drill and with our two current wind turbine designs. The following images and charts show our results and methods. We had a lot of difficulty in setting up the charge controller before eventually realizing there was a specific order we had to insert all the components for the design to work. It was also somewhat challenging to attach the motors to the wind turbines, so going forward we are planning on adopting Zach's new design. 
 
+<img src="Images/project12.jpg" width="300" height="300" />
 
+The following images and charts show our methods and findings for the past month. 
+
+<img src="Images/IMG_2227.jpg" width="300" height="300" />
+
+<img src="Images/IMG_2228.jpg" width="300" height="300" />
+
+<img src="Images/IMG_2229.jpg" width="300" height="300" />
+
+|Motor     |Max Voltage  |
+|----------|-------------|
+|E3E01     |6 V          |
+|9015      |.8 V         |
+|QK1       |6.34 V       |
+
+|Turbine      |Max Voltage - E3E01|
+|-------------|-------------------|
+|Our Design   |2.2 V              |
+|Zack's Design|.56 V              |
+
+|Turbine      |Max Voltage - QK1|
+|-------------|-----------------|
+|Our Design   |2.3 V            |
+|Zack's Design|.67 V            |
+
+As you can see by the data, our wind turbine was much more efficient than Zack's original design, so we will be using it going forward. After getting those results, it was necessary to redesign our turbine in OnShape so that it can be printed in 4 parts with each blade being split into two parts. This will make it so we can over-double our current prototype size on the next iteration, and increase our RPM and torque for the new motor.
 
 
 
