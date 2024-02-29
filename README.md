@@ -144,4 +144,11 @@ These past two weeks we received the charge controller which allowed us to start
 <img src="Images/unnamed6.jpg" width="300" height="300" />
 
 
+### Week 7 - 10 - February 1st - 29th
+
+We spent this month testing different motors, both with the drill and with our two current wind turbine designs. The following images and charts show our results and methods. We had a lot of difficulty in setting up the charge controller before eventually realizing there was a specific order we had to insert all the components for the design to work. It was also somewhat challenging to attach the motors to the wind turbines, so going forward we are planning on adopting Zach's new design. 
+
+
+
+
 
