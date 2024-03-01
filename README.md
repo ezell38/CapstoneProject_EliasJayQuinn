@@ -156,7 +156,7 @@ The following images and charts show our methods and findings for the past month
 
 <img src="Images/IMG_2228.jpg" width="300" height="300" />
 
-<img src="Images/IMG_2229.jpg" width="300" height="300" />
+<img src="Images/IMG_2230.jpg" width="300" height="300" />
 
 |Motor     |Max Voltage  |
 |----------|-------------|
