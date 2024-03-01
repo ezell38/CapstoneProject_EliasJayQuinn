@@ -95,9 +95,7 @@ The results are as follows -
 
 Here is the CAD for the alternative design - 
 
-<img src="Images/1.PNG" width="400" height="300" />
-
-<img src="Images/2.PNG" width="400" height="300" />
+<img src="Images/1.PNG" width="400" height="300" /> <img src="Images/2.PNG" width="400" height="300" />
 
 ### Week 5 - December 4th - December 8th
 
@@ -108,7 +106,6 @@ We used the INA260 Arduino module to test voltage, current, and power outputs fr
 Final Re-sized CAD design: 
 
 <img src="https://github.com/ezell38/CapstoneProject_EliasJayQuinn/blob/880b19cef6553e5d3af76dc2e8be2389367e9cdc/Images/topV3.PNG" width="400" />
-
 <img src="https://github.com/ezell38/CapstoneProject_EliasJayQuinn/blob/880b19cef6553e5d3af76dc2e8be2389367e9cdc/Images/bottomV3.PNG" width="400" />
 
 Max Values for Motor from Zach - 
@@ -121,19 +118,15 @@ Max Values for Motor from Zach -
 
 INA260 Arduino Chip Wiring - 
 
-<img src="Images/unnamed5.jpg" width="300" height="300" />
+<img src="Images/unnamed5.jpg" width="400" height="300" />
 
 ### Week 6 - December 11th - December 15th
 
 This week we 3-D printed our top and bottom part but when mirroring the bottom piece off of the top we failed to reverse it, leading to the parts not fitting. This is a valuable lesson going forward: parts should always be put into an assembly before being printed. Once the parts were correctly printed, we constructed our prototype. We used dowel rods and the flimsy plastic sheets in the back of the classroom, each cut to 4 inches in height, to combine the top and bottom and create the wings. We then used a hot glue gun to secure it all in place. It is incredibly sturdy and I think the method with two dowel rods as additional support will be helpful in our next, more finalized design. 
 
-<img src="Images/project1.jpg" width="300" height="300" />
+<img src="Images/project1.jpg" width="400" height="300" /> <img src="Images/project2.jpg" width="400" height="300" />
 
-<img src="Images/project2.jpg" width="300" height="300" />
-
-<img src="Images/project3.jpg" width="300" height="300" />
-
-<img src="Images/project4.jpg" width="300" height="300" />
+<img src="Images/project3.jpg" width="400" height="300" /> <img src="Images/project4.jpg" width="400" height="300" />
 
 In the upcoming weeks, we will test our design vs Zach's to determine which design is more efficient.
 
@@ -143,20 +136,17 @@ These past two weeks we received the charge controller which allowed us to start
 
 <img src="Images/unnamed6.jpg" width="300" height="300" />
 
-
 ### Week 7 - 10 - February 1st - 29th
 
 We spent this month testing different motors, both with the drill and with our two current wind turbine designs. The following images and charts show our results and methods. We had a lot of difficulty in setting up the charge controller before eventually realizing there was a specific order we had to insert all the components for the design to work. It was also somewhat challenging to attach the motors to the wind turbines, so going forward we are planning on adopting Zach's new design. 
 
-<img src="Images/project12.jpg" width="300" height="300" />
+<img src="Images/project12.jpg" width="400" height="300" />
 
 The following images and charts show our methods and findings for the past month. 
 
-<img src="Images/IMG_2227.jpg" width="300" height="300" />
+<img src="Images/IMG_2227.jpg" width="400" height="300" /> <img src="Images/IMG_2228.jpg" width="400" height="300" />
 
-<img src="Images/IMG_2228.jpg" width="300" height="300" />
-
-<img src="Images/IMG_2230.jpg" width="300" height="300" />
+<img src="Images/IMG_2230.jpg" width="400" height="300" />
 
 |Motor     |Max Voltage  |
 |----------|-------------|
