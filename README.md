@@ -166,5 +166,5 @@ The following images and charts show our methods and findings for the past month
 
 As you can see by the data, our wind turbine was much more efficient than Zack's original design, so we will be using it going forward. After getting those results, it was necessary to redesign our turbine in OnShape so that it can be printed in 4 parts with each blade being split into two parts. This will make it so we can over-double our current prototype size on the next iteration, and increase our RPM and torque for the new motor.
 
-<img src="Images/project13.jpg" width="350" height="300" />
+<img src="Images/project13.PNG" width="350" height="300" />
 
