@@ -168,3 +168,11 @@ As you can see by the data, our wind turbine was much more efficient than Zack's
 
 <img src="Images/project13.PNG" width="350" height="300" />
 
+### Week 11- 14 - March 1st - 29th
+
+We spent this month researching, buying, and testing a larger, more powerful motor for our project. We decided to go with a 24V, 250W, 2750 RPM [motor](https://www.amazon.com/TRKIMAL-Brushed-Permanent-Electric-2750RPM/dp/B0BKGMC9NN/ref=sr_1_5?crid=2U63XWV1PE8N8&dib=eyJ2IjoiMSJ9.5jGt5lMvCiT9zFj7sX_7uWYOqRNxDCmcIWCxGFk_ifpWKBAztrx-RHksMFOp9oVEuy6ooWajbWflYPPsai6u_H4927KeqziYJ_nlIwcE-PeqrTZp-ORyj_-4na6zN9CLkzaP62H89EqdW7P-90o99IpyonrA-RB3utSKgD5Z_kGALCcC6PnffRxQLB1TPcsuGv3ZiUghgKzVJ-7g-LQQgIprwU7_hZ2t4A4ga7UIdVwPrlUCKh-fqhfxhmJmh188EP1Thtx937tfp6-a2tVThXZXFvsexnu_PWoijo3NOio.GnfMqEu2puvhvwe57CGoIMvc8cTZRK1-A_KmW8Wv-Uw&dib_tag=se&keywords=permanent%2Bmagnet%2Bmotor&qid=1709042733&s=toys-and-games&sprefix=permanent%2Bmagnet%2Bmotor%2Ctoys-and-games%2C84&sr=1-5&th=1) as it provides a high output voltage at a lower rpm. We were unable to find this motor's max output due to its shape, but by using a drill and some tape were able to get it outputting just over 8 volts. Based on previous motors, this should translate to 4 - 6 volts in wind. 
+
+We also redesigned our turbine heads and designed one for the new motor. We used Zach's design for our redesign, as it worked far better than what we currently had. In his design, there was a smaller piece which is printed to fit the motor head, and then that piece had a universal hexagon side attached to the motor. This allows for a tighter fit and in turn, less energy lost due to oscillation. We have two attachment pieces for our two smaller motors. For the new motor, we scaled up the design so that it has a diameter of 14.5 inches, double that of the smaller motor. The 3-D printer can only print designs up to 7 inches in diameter, so we split this design into 4 parts and will use screws via an attachment point to weld those pieces together. We then created an attachment point that will fit seamlessly with the motor head.  
+
+
+
