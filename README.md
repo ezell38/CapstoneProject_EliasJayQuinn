@@ -174,5 +174,6 @@ We spent this month researching, buying, and testing a larger, more powerful mot
 
 We also redesigned our turbine heads and designed one for the new motor. We used Zach's design for our redesign, as it worked far better than what we currently had. In his design, there was a smaller piece which is printed to fit the motor head, and then that piece had a universal hexagon side attached to the motor. This allows for a tighter fit and in turn, less energy lost due to oscillation. We have two attachment pieces for our two smaller motors. For the new motor, we scaled up the design so that it has a diameter of 14.5 inches, double that of the smaller motor. The 3-D printer can only print designs up to 7 inches in diameter, so we split this design into 4 parts and will use screws via an attachment point to weld those pieces together. We then created an attachment point that will fit seamlessly with the motor head.  
 
-
+<img src="Images/3.PNG" width="350" height="300" /><img src="Images/4.PNG" width="350" height="300" />
+<img src="Images/5.PNG" width="350" height="300" />
 
