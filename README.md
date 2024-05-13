@@ -177,3 +177,11 @@ We also redesigned our turbine heads and designed one for the new motor. We used
 <img src="Images/3.PNG" width="350" height="300" /><img src="Images/4.PNG" width="350" height="300" />
 <img src="Images/5.PNG" width="350" height="300" />
 
+
+
+## Operating Instructions
+
+## Bill of Materials
+
+## Engineering Analysis
+
