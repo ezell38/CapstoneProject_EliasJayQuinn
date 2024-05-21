@@ -177,6 +177,15 @@ We also redesigned our turbine heads and designed one for the new motor. We used
 <img src="Images/3.PNG" width="350" height="300" /><img src="Images/4.PNG" width="350" height="300" />
 <img src="Images/5.PNG" width="350" height="300" />
 
+### Weeks 14-18 - April 1st - Presentation - 
+
+We spent this month constructing our final project and preparing for the presentation. This included printing three new turbine blades, two small and one, the motor attachments for each, and the PVC pipe attachments for each. We also had to construct the PVC pipe base and the box to hold the battery and charge controller. We also had to connect the final wiring.
+
+#### Blade Construction
+
+#### Base Construction
+
+#### Wiring
 
 
 ## Operating Instructions
