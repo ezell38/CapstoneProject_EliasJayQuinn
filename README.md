@@ -187,6 +187,14 @@ We spent this month constructing our final project and preparing for the present
 
 #### Wiring
 
+<img src="Images/project100.jpg" width="400" height="300" />
+<img src="Images/project101.jpg" width="400" height="300" />
+<img src="Images/project102.jpg" width="400" height="300" />
+<img src="Images/project103.jpg" width="400" height="300" />
+<img src="Images/project104.jpg" width="400" height="300" />
+
+
+
 
 ## Operating Instructions
 
