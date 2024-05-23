@@ -199,6 +199,10 @@ We spent this month constructing our final project and preparing for the present
 
 <img src="Images/project102.jpg" width="400" height="300" />
 
+
+
+<img src="Images/IMG_07503-ezgif.com-video-to-gif-converter.gif" width="400" height="300" />
+
 ## Operating Instructions
 <b>Set-up:</b>
 1. Bring windmill to open, preferably elevated area where there is steady wind.
