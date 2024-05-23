@@ -199,10 +199,6 @@ We spent this month constructing our final project and preparing for the present
 
 <img src="Images/project102.jpg" width="400" height="300" />
 
-
-
-<img src="Images/IMG_07503-ezgif.com-video-to-gif-converter.gif" width="400" height="300" />
-
 ## Operating Instructions
 <b>Set-up:</b>
 1. Bring windmill to open, preferably elevated area where there is steady wind.
@@ -215,6 +211,8 @@ We spent this month constructing our final project and preparing for the present
 1. Open the hinge on the box to access the included lightning charger, or bring your own usb charger to plug into the available 2nd port.
 2. Plug in phone or other device and it will begin charging.
 3. Place phone on top of box while it charges, or place it inside the box to protect it from rain.
+
+<img src="Images/IMG_07503-ezgif.com-video-to-gif-converter.gif" width="400" height="400" />
 
 ## Bill of Materials
 
