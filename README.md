@@ -216,5 +216,25 @@ We spent this month constructing our final project and preparing for the present
 
 ## Bill of Materials
 
+1x 10 ft of 3 in PVC pipe
+2x PVC pipe elbows
+1x PVC pipe equal cross
+9x plastic yellow stakes
+Multiple feet of string
+6x 3D-printed blade ends
+3x Clear plastic film 
+1x Laser cut box 
+4x 3D-printed box brackets
+Many #4-40 x ⅜ inch screws
+Many ⅜ inch nuts
+2x small printer motors
+1x big 24V DC motor
+Many zip ties
+1x Charge controller
+1x boost converter
+3x one-way diodes
+Many feet of wire
+Hot glue
+
 ## Engineering Analysis
 
