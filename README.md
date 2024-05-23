@@ -197,14 +197,14 @@ We spent this month constructing our final project and preparing for the present
 
 
 ## Operating Instructions
-#####Set-up:
+<b>Set-up:</b>
 1. Bring windmill to open, preferably elevated area where there is steady wind.
 2. Place bottom of pvc pipe onto the ground, making sure that it is straight up in the air.
 3. Push the 4 stakes around the edge of the pvc pipe into the ground.
 4. Unroll the strings attached to the stakes further up on the windmill.
 5. Stretch them relatively tight and push the stakes into the ground, similar as to how you would stake down a tarp while camping.
 
-#####Operation:
+<b>Operation:</b>
 1. Open the hinge on the box to access the included lightning charger, or bring your own usb charger to plug into the available 2nd port.
 2. Plug in phone or other device and it will begin charging.
 3. Place phone on top of box while it charges, or place it inside the box to protect it from rain.
