@@ -5,8 +5,8 @@
 ## Table of Contents
 * [Planning](#Planning)
 * [Schedule](#Schedule)
-* [Week Summary](#Week_Summary)
-* [Final Documentation Items](#Blade_Construction)
+* [Week Summary](#Week-Summary)
+* [Final Documentation Items](#Blade-Construction)
 
 ## Planning  
 
@@ -68,7 +68,7 @@ Testing - Test at CHS and make any changes to the code or design we need. Collec
 
 Iterate - Place wind turbine in Greenleaf Park and collect data. Create a presentation for the UVA link lab.
 
-## Week_Summary 
+## Week Summary 
 
 ### Week 1 - Oct 29 - Nov 4 - 
 
@@ -84,7 +84,7 @@ We realized that connecting the turbine blades to the motor would be more challe
 
 Next week when the charge controller comes we will use the miniature turbine to work on the circuitry. Until it comes, we will work on designing the wind turbine blades and attachment.  
 
-### Week_4_-_November_27_-_December_1st_- 
+### Week 4 - November 27 - December 1st - 
 
 This week we 3D-designed an alternative wind turbine blade design to the one given to us by Zack. We used a Savonius design which will hopefully be more effective than the current Darreius design. Next week we are planning on printing the alternative design and then testing the power output at identical wind speeds. We also tested the power output of our current DC motor at different rpm using the INA260 Arduino module and a multimeter.
 The results are as follows - 
@@ -190,7 +190,7 @@ We spent this month constructing our final project and preparing for the present
 
 <img src="Images/project103.jpg" width="400" height="300" />
 
-#### Base_Construction
+#### Base Construction
 
 <img src="Images/project104.jpg" width="400" height="500" />
 
@@ -218,7 +218,7 @@ We spent this month constructing our final project and preparing for the present
 ## Bill of Materials
 
 1x 10 ft of 3 in PVC pipe  
-2x PVC pipe elbows  
+2x PVC pipe elbows 
 1x PVC pipe equal cross  
 9x plastic yellow stakes  
 Multiple feet of string  
