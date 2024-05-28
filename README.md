@@ -182,7 +182,7 @@ We also redesigned our turbine heads and designed one for the new motor. We used
 
 We spent this month constructing our final project and preparing for the presentation. This included printing three new turbine blades, two small and one, the motor attachments for each, and the PVC pipe attachments for each. We also had to construct the PVC pipe base and the box to hold the battery and charge controller. We also had to connect the final wiring.
 
-#### Blade_Construction
+#### Blade Construction
 
 <img src="Images/project100.jpg" width="400" height="300" />
 
