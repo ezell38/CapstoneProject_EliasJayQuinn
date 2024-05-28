@@ -6,6 +6,7 @@
 * [Planning](#Planning)
 * [Schedule](#Schedule)
 * [Week Summary](#Week_Summary)
+* [Final Documentation Items](#Blade_Construction)
 
 ## Planning  
 
